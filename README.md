@@ -14,4 +14,4 @@ Now let's learn how to select HTML elements so that we can customize them in CSS
 
 
 ## Tricks
-[Preload background-images](https://codepen.io/jomarcardoso/pen/JMzrqm)
+* [Preload background-images](https://codepen.io/jomarcardoso/pen/JMzrqm)
